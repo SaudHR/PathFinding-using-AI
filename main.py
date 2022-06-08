@@ -202,7 +202,7 @@ def specify():
     top.destroy()
 
     win = pygame.display.set_mode((WIDTH, WIDTH))
-    pygame.display.set_caption("Saud")
+    pygame.display.set_caption("Sattam")
     ROWS = int(x.get())
     grid = make_grid(ROWS, WIDTH)
 
